@@ -1,0 +1,5 @@
+# pandas
+pillow<4.0
+
+jupyter<2.0
+pip-tools<2.0
